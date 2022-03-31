@@ -1,5 +1,8 @@
-### Hi there 👋
-
+👋 Hi, I’m Suyash. 
+🌱 I am Computer Science Engineering student studying in VIT,Chennai.
+👀 I’m interested in programming in Java
+🌱 I’m currently learning Flutter and Spring 
+📫 Reach me at : suyashrocks25@gmail.com
 <!--
 **Suyash2507/Suyash2507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
