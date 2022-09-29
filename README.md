@@ -1,9 +1,9 @@
 
 - 👋 Hi, I’m Suyash. 
 - 🌱 I am Computer Science Engineering student studying in VIT,Chennai.
-- 📫 Reach me at : suyashrocks25@gmail.com
 - 🌱 I’m currently learning Spring framework along with Hibernates.
 - 💬 I am upskilling myself to become an expert in Full stack development and any help would be appreciated.
+- 📫 Reach me at : suyashrocks25@gmail.com
 <!--- 👀 I’m interested in programming in Java
 - 🌱 I’m currently learning Spring framework. 
 -->
