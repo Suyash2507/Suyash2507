@@ -3,7 +3,7 @@
 - 🌱 I am Computer Science Engineering student studying in VIT,Chennai.
 - 🌱 I’m currently learning Spring framework along with Hibernates.
 - 💬 I am upskilling myself to become an expert in Full stack development and any help would be appreciated.
-- 📫 Reach me at : suyashrocks25@gmail.com
+- 📫 Reach me at : suyashshrivastava2507@gmail.com
 <!--- 👀 I’m interested in programming in Java
 - 🌱 I’m currently learning Spring framework. 
 -->
